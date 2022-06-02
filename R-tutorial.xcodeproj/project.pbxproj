@@ -13,6 +13,14 @@
 		49DD5C6A2848F39A0091533D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C692848F39A0091533D /* Assets.xcassets */; };
 		49DD5C6D2848F39A0091533D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C6C2848F39A0091533D /* Preview Assets.xcassets */; };
 		49DD5C752848F5930091533D /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49DD5C742848F5930091533D /* R.generated.swift */; };
+		49DD5C7F2848FAE20091533D /* NotoSerifJP-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C772848FAE20091533D /* NotoSerifJP-Bold.otf */; };
+		49DD5C802848FAE20091533D /* NotoSerifJP-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C782848FAE20091533D /* NotoSerifJP-Medium.otf */; };
+		49DD5C812848FAE20091533D /* NotoSerifJP-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C792848FAE20091533D /* NotoSerifJP-SemiBold.otf */; };
+		49DD5C822848FAE20091533D /* NotoSerifJP-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C7A2848FAE20091533D /* NotoSerifJP-Light.otf */; };
+		49DD5C832848FAE20091533D /* NotoSerifJP-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C7B2848FAE20091533D /* NotoSerifJP-Regular.otf */; };
+		49DD5C842848FAE20091533D /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C7C2848FAE20091533D /* OFL.txt */; };
+		49DD5C852848FAE20091533D /* NotoSerifJP-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C7D2848FAE20091533D /* NotoSerifJP-Black.otf */; };
+		49DD5C862848FAE20091533D /* NotoSerifJP-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49DD5C7E2848FAE20091533D /* NotoSerifJP-ExtraLight.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +31,14 @@
 		49DD5C692848F39A0091533D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49DD5C6C2848F39A0091533D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		49DD5C742848F5930091533D /* R.generated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = SOURCE_ROOT; };
+		49DD5C772848FAE20091533D /* NotoSerifJP-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Bold.otf"; sourceTree = "<group>"; };
+		49DD5C782848FAE20091533D /* NotoSerifJP-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Medium.otf"; sourceTree = "<group>"; };
+		49DD5C792848FAE20091533D /* NotoSerifJP-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-SemiBold.otf"; sourceTree = "<group>"; };
+		49DD5C7A2848FAE20091533D /* NotoSerifJP-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Light.otf"; sourceTree = "<group>"; };
+		49DD5C7B2848FAE20091533D /* NotoSerifJP-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Regular.otf"; sourceTree = "<group>"; };
+		49DD5C7C2848FAE20091533D /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
+		49DD5C7D2848FAE20091533D /* NotoSerifJP-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Black.otf"; sourceTree = "<group>"; };
+		49DD5C7E2848FAE20091533D /* NotoSerifJP-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-ExtraLight.otf"; sourceTree = "<group>"; };
 		7B9979311E6473B93E38106F /* Pods-R-tutorial.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-R-tutorial.release.xcconfig"; path = "Target Support Files/Pods-R-tutorial/Pods-R-tutorial.release.xcconfig"; sourceTree = "<group>"; };
 		D88E8A32ABF0BC1FB30AF3DF /* Pods_R_tutorial.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_R_tutorial.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -63,6 +79,7 @@
 				49DD5C742848F5930091533D /* R.generated.swift */,
 				49DD5C652848F3960091533D /* R_tutorialApp.swift */,
 				49DD5C672848F3960091533D /* ContentView.swift */,
+				49DD5C872848FAE90091533D /* Resources */,
 				49DD5C692848F39A0091533D /* Assets.xcassets */,
 				49DD5C6B2848F39A0091533D /* Preview Content */,
 			);
@@ -75,6 +92,29 @@
 				49DD5C6C2848F39A0091533D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		49DD5C762848FAE20091533D /* Noto_Serif_JP */ = {
+			isa = PBXGroup;
+			children = (
+				49DD5C772848FAE20091533D /* NotoSerifJP-Bold.otf */,
+				49DD5C782848FAE20091533D /* NotoSerifJP-Medium.otf */,
+				49DD5C792848FAE20091533D /* NotoSerifJP-SemiBold.otf */,
+				49DD5C7A2848FAE20091533D /* NotoSerifJP-Light.otf */,
+				49DD5C7B2848FAE20091533D /* NotoSerifJP-Regular.otf */,
+				49DD5C7C2848FAE20091533D /* OFL.txt */,
+				49DD5C7D2848FAE20091533D /* NotoSerifJP-Black.otf */,
+				49DD5C7E2848FAE20091533D /* NotoSerifJP-ExtraLight.otf */,
+			);
+			path = Noto_Serif_JP;
+			sourceTree = "<group>";
+		};
+		49DD5C872848FAE90091533D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				49DD5C762848FAE20091533D /* Noto_Serif_JP */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		A9E106D0A76B9C53DC3183F6 /* Pods */ = {
@@ -102,11 +142,11 @@
 			buildConfigurationList = 49DD5C702848F39A0091533D /* Build configuration list for PBXNativeTarget "R-tutorial" */;
 			buildPhases = (
 				4C758658C4ECBE9D42040F25 /* [CP] Check Pods Manifest.lock */,
+				49DD5C732848F45A0091533D /* ShellScript */,
 				49DD5C5E2848F3960091533D /* Sources */,
 				49DD5C5F2848F3960091533D /* Frameworks */,
 				49DD5C602848F3960091533D /* Resources */,
 				F0F6B382716F2E97EE296235 /* [CP] Embed Pods Frameworks */,
-				49DD5C732848F45A0091533D /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -155,8 +195,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49DD5C7F2848FAE20091533D /* NotoSerifJP-Bold.otf in Resources */,
+				49DD5C852848FAE20091533D /* NotoSerifJP-Black.otf in Resources */,
 				49DD5C6D2848F39A0091533D /* Preview Assets.xcassets in Resources */,
+				49DD5C822848FAE20091533D /* NotoSerifJP-Light.otf in Resources */,
+				49DD5C802848FAE20091533D /* NotoSerifJP-Medium.otf in Resources */,
 				49DD5C6A2848F39A0091533D /* Assets.xcassets in Resources */,
+				49DD5C832848FAE20091533D /* NotoSerifJP-Regular.otf in Resources */,
+				49DD5C862848FAE20091533D /* NotoSerifJP-ExtraLight.otf in Resources */,
+				49DD5C842848FAE20091533D /* OFL.txt in Resources */,
+				49DD5C812848FAE20091533D /* NotoSerifJP-SemiBold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
